@@ -1,0 +1,45 @@
+.App {
+  text-align: center;
+}
+
+.main_section {
+  zoom: 1;
+  max-width: 1015px;
+  padding: 0px 20px;
+  margin: 0 auto;
+  position: relative;
+}
+
+.flex_2 {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.patients{
+  background: #00ccb1;
+}
+
+.doctors{
+  background: #3d83df;
+}
+
+.clinics{
+  background: #1b2734;
+}
+
+.navbar-collapse {
+  flex-grow: 0 !important;
+}
+
+.card-subtitle {
+  color: #ffffff !important;
+}
+
+.card-title {
+  color: #ffffff !important;
+}
+
+h1 {
+  color: #00ccb1;
+}
